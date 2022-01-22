@@ -37,7 +37,7 @@ background-color: coral;
   }
   
   .fa:hover {
-      opacity: 0.7;
+      opacity: 0.9;
   }
   .fa-twitter {
     background: #55ACEE;
@@ -47,5 +47,16 @@ background-color: coral;
     background: #125688;
     color: white;
   }
+  footer {
+    background: #645f5f;
+    height: 100px;
+    font-family: 'Open Sans', sans-serif;
+    color: #FFFFFF;
+    padding: 40px;
+}
+.naya3{
+    height: 100px;
+
+}
 
   
