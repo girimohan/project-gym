@@ -1,7 +1,7 @@
 .naya{
-background-color: coral;
+    background: coral;
 text-align: center;
-
+height: 200px;
 }
 
 .carousel-inner {
@@ -9,19 +9,13 @@ width: auto;
 height: 600px;
 }  
 
-
-
-
-footer{
-    margin-top: 8px;
-background-color: coral;
-}
 .row{
     margin-top: 8px;
 }
-.container{
-    
+.naya2{
+    height: 200px;
 }
+
 .naya3{
 }
 .fa-facebook {
@@ -47,16 +41,17 @@ background-color: coral;
     background: #125688;
     color: white;
   }
-  footer {
-    background: #645f5f;
-    height: 100px;
-    font-family: 'Open Sans', sans-serif;
-    color: #FFFFFF;
-    padding: 40px;
-}
+  
 .naya3{
     height: 100px;
+}
 
+footer {
+    background: coral;
+    height: 60px;
+    font-family: 'Open Sans', sans-serif;
+    color: #FFFFFF;
+    padding: 20px;
 }
 
   
