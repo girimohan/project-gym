@@ -16,8 +16,7 @@ height: 600px;
     height: 200px;
 }
 
-.naya3{
-}
+
 .fa-facebook {
     background: #3B5998;
     color: white;
@@ -53,5 +52,9 @@ footer {
     color: #FFFFFF;
     padding: 20px;
 }
-
-  
+.h1-title{
+    align: center;
+    color: rgb(15, 100, 156);
+}
+.logo-img{
+}
