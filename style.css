@@ -3,63 +3,68 @@
     text-align: center;
     height: 200px;
 }
-.naya h2{
-    color: rgb(255, 113, 31);
+
+h2{
+    color: rgb(0, 0, 0);
+    text-align: center;
 }
 
-.carousel-inner {
-width: auto;
-height: 600px;
+.carousel-inner 
+{
+    width: auto;
+    height: 600px;
 }  
 
 .row{
     margin-top: 8px;
 }
+
 .naya2{
     height: 200px;
 }
-
 
 .fa-facebook {
     background: #3B5998;
     color: white;
 }
+
 .fa {
     padding: 20px;
-    font-size: 30px;
     width: 50px;
     text-align: center;
     text-decoration: none;
-  }
+}
   
-  .fa:hover {
-      opacity: 0.9;
-  }
-  .fa-twitter {
+.fa:hover {
+    opacity: 0.9;
+}
+
+.fa-twitter {
     background: #55ACEE;
     color: white;
-  }
+}
   .fa-instagram {
     background: #125688;
     color: white;
-  }
+}
   
 .naya3{
     height: 100px;
-
-
+    background: rgb(247, 245, 245);
 }
 
 footer {
-    background: rgb(247, 245, 245);
+    background: rgb(102, 102, 102);
     height: 60px;
     font-family: 'Open Sans', sans-serif;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     padding: 20px;
 }
-.h1-title{
-    align: center;
-    color: rgb(15, 100, 156);
-}
-.logo-img{
+
+.header {
+    background-color: #F5F5F5;
+    color: coral;
+    height: 70px;
+    font-size: 27px;
+    padding: 10px;
 }
