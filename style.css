@@ -1,7 +1,10 @@
 .naya{
-    background: coral;
-text-align: center;
-height: 200px;
+    background: rgb(247, 245, 245);
+    text-align: center;
+    height: 200px;
+}
+.naya h2{
+    color: rgb(255, 113, 31);
 }
 
 .carousel-inner {
@@ -43,13 +46,15 @@ height: 600px;
   
 .naya3{
     height: 100px;
+
+
 }
 
 footer {
-    background: coral;
+    background: rgb(247, 245, 245);
     height: 60px;
     font-family: 'Open Sans', sans-serif;
-    color: #FFFFFF;
+    color: rgb(0, 0, 0);
     padding: 20px;
 }
 .h1-title{
