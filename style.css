@@ -8,6 +8,10 @@ h2{
     color: rgb(0, 0, 0);
     text-align: center;
 }
+.call12{
+    color: coral;
+    text-align: end;
+}
 
 .carousel-inner 
 {
@@ -55,7 +59,7 @@ h2{
 
 footer {
     background: rgb(102, 102, 102);
-    height: 60px;
+    height: 180px;
     font-family: 'Open Sans', sans-serif;
     color: rgb(255, 255, 255);
     padding: 20px;
@@ -68,3 +72,4 @@ footer {
     font-size: 27px;
     padding: 10px;
 }
+
