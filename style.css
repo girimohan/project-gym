@@ -1,15 +1,10 @@
 .naya{
-    background: rgb(247, 245, 245);
     text-align: center;
-    height: 200px;
+    height: 150px;
+    
 
 }
 
-
-h2{
-    color: rgb(0, 0, 0);
-    text-align: center;
-}
 .call12{
     color: coral;
     text-align: end;
@@ -132,6 +127,7 @@ a{
         background-color: rgb(0, 0, 0);
         color: coral;
         font-size: 28px;
+        text-align: center;
     }
     .prices{
         font-size: 24px;
